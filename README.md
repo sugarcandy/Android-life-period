@@ -4,32 +4,28 @@
 
  1. 启动程序
  
- ![avatar](https://github.com/Sugarcandy/picture/blob/master/start.png)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170145828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FpbmdmZW5nbG9zZXI=,size_16,color_FFFFFF,t_70)
  
  日志打印：
  
-  ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/startlog.png)
+  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170200464.png)
   
  2. 切换到其他程序
- 
-  ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/leave.png)
- 
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170219777.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FpbmdmZW5nbG9zZXI=,size_16,color_FFFFFF,t_70)
  日志打印：
  
-  ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/leavelog.png)
+  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170227851.png)
   
  3. 从其他应用回到当前应用
  
- ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/recome.png)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170236811.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FpbmdmZW5nbG9zZXI=,size_16,color_FFFFFF,t_70)
  
  日志打印：
  
- ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/recomelog.png)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170243713.png)
  
  4. 退出界面
  
- ![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/home.png)
- 
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170251930.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FpbmdmZW5nbG9zZXI=,size_16,color_FFFFFF,t_70)
  日志文件：
- 
-![avatar](https://github.com/Sugarcandy/lab1/blob/master/picture/homelog.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319170257623.png)
